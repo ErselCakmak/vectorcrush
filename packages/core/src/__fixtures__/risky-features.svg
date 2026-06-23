@@ -1,0 +1,18 @@
+<svg width="24.0000" height="24.0000" viewBox="0 0 24 24">
+  <defs>
+    <linearGradient id="paint">
+      <stop offset="0%" stop-color="#000"/>
+      <stop offset="100%" stop-color="#fff"/>
+    </linearGradient>
+    <clipPath id="clip">
+      <path d="M0.0000 0.0000 L24.0000 0.0000 L24.0000 24.0000 Z"/>
+    </clipPath>
+    <symbol id="icon">
+      <path d="M4.5000 4.5000 H19.5000 V19.5000 H4.5000 Z"/>
+    </symbol>
+  </defs>
+  <style>.primary { fill: url(#paint); stroke-width: 1.5000; }</style>
+  <g clip-path="url(#clip)">
+    <path class="primary" fill="url(#paint)" d="M4.5000 4.5000 H19.5000 V19.5000 H4.5000 Z"/>
+  </g>
+</svg>

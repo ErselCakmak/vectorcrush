@@ -1,0 +1,11 @@
+node_modules
+dist
+.tmp
+coverage
+.DS_Store
+*.log
+
+.codex/
+codex/
+AGENTS.md
+scripts/
