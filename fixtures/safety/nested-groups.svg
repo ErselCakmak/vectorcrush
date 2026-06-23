@@ -1,0 +1,7 @@
+<svg width="24" height="24" viewBox="0 0 24 24">
+  <g id="outer" fill="currentColor" opacity="0.75">
+    <g id="inner" transform="translate(2 2)">
+      <path d="M2.0000 2.0000 H18.0000 V18.0000 H2.0000 Z"/>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,6 @@
+<svg width="24" height="24" viewBox="0 0 24 24">
+  <symbol id="mark" viewBox="0 0 8 8">
+    <path d="M0.0000 0.0000 H8.0000 V8.0000 H0.0000 Z"/>
+  </symbol>
+  <use href="#mark" width="8" height="8"/>
+</svg>
